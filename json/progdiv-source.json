@@ -1,6 +1,6 @@
 [
     {"key": "2", "title": "Antivirus Antimalware", "folder": true, "children": [
-		{"key": "2_1", "target": "_top", "title": "AdwCleaner Portable", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Anti-Virus-Spy/AdwCleaner_Portable_6.041.exe", "tooltip": "AdwCleaner_Portable_6.041.exe" },
+		{"key": "2_1", "target": "_top", "title": "AdwCleaner Portable", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Anti-Virus-Spy/AdwCleaner_Portable_6.042.exe", "tooltip": "AdwCleaner_Portable_6.042.exe" },
 		{"key": "2_2", "target": "_top", "title": "Avira Free Antivirus", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Anti-Virus-Spy/Avira_Free_Antivirus_15.0.24.146.exe", "tooltip": "Avira_Free_Antivirus_15.0.24.146.exe" },
 		{"key": "2_3", "target": "_top", "title": "CrowdInspect", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Anti-Virus-Spy/CrowdInspect_1.0.0.1.exe", "tooltip": "CrowdInspect_1.0.0.1.exe" },
 		{"key": "2_4", "target": "_top", "title": "HijackThis", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Anti-Virus-Spy/HijackThis_2.0.4.exe", "tooltip": "HijackThis_2.0.4.exe" },
@@ -12,7 +12,7 @@
 		{"key": "2_10", "target": "_top", "title": "Microsoft Security Essentials 64Bit /", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Anti-Virus-Spy/Microsoft_Security_Essentials_64_4.10.0209.0.exe", "tooltip": "Microsoft_Security_Essentials_64_4.10.0209.0.exe" },
 		{"key": "2_11", "target": "_top", "title": "Panda Free Antivirus", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Anti-Virus-Spy/Panda_Free_Antivirus_18.0.0.exe", "tooltip": "Panda_Free_Antivirus_18.0.0.exe" },
 		{"key": "2_12", "target": "_top", "title": "Spybot", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Anti-Virus-Spy/Spybot_2.4.exe", "tooltip": "Spybot_2.4.exe" },
-		{"key": "2_13", "target": "_top", "title": "SUPERAntiSpyware", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Anti-Virus-Spy/SUPERAntiSpyware_6.0.1230.exe", "tooltip": "SUPERAntiSpyware_6.0.1230.exe" }
+		{"key": "2_13", "target": "_top", "title": "SUPERAntiSpyware", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Anti-Virus-Spy/SUPERAntiSpyware_6.0.1232.exe", "tooltip": "SUPERAntiSpyware_6.0.1232.exe" }
     ]},
     {"key": "3", "title": "Copias de Seguranca", "folder": true, "children": [
 		{"key": "3_1", "target": "_top", "title": "Cobian Backup Gravity /", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Copias%20de%20Seguranca/Cobian_Backup_Gravity_11.2.0.582.exe", "tooltip": "Cobian_Backup_Gravity_11.2.0.582.exe" },
@@ -35,7 +35,7 @@
 		{"key": "4_4", "target": "_top", "title": "CCleaner /", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Utilitarios/CCleaner_5.25.5902.exe", "tooltip": "CCleaner_5.25.5902.exe" },
 		{"key": "4_5", "target": "_top", "title": "Defraggler", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Utilitarios/Defraggler_2.21.993.exe", "tooltip": "Defraggler_2.21.993.exe" },
 		{"key": "4_6", "target": "_top", "title": "DiskPulse", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Utilitarios/DiskPulse_9.2.28.exe", "tooltip": "DiskPulse_9.2.28.exe" },
-		{"key": "4_7", "target": "_top", "title": "CDBurnerXP", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Utilitarios/CDBurnerXP_4.5.7.6452.exe", "tooltip": "CDBurnerXP_4.5.7.6452.exe" },
+		{"key": "4_7", "target": "_top", "title": "CDBurnerXP", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Utilitarios/CDBurnerXP_4.5.7.6499.exe", "tooltip": "CDBurnerXP_4.5.7.6499.exe" },
 		{"key": "4_8", "target": "_top", "title": "ImageUSB", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Utilitarios/ImageUSB_1.3.1002.zip", "tooltip": "ImageUSB_1.3.1002.zip" },
 		{"key": "4_9", "target": "_top", "title": "Recuva", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Utilitarios/Recuva_1.53.1087.exe", "tooltip": "Recuva_1.53.1087.exe" },
 		{"key": "4_10", "target": "_top", "title": "Rufus USB Portable", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Utilitarios/Rufus_USB_Portable_2.11.exe", "tooltip": "Rufus_USB_Portable_2.11.exe" },
@@ -70,9 +70,9 @@
         {"key": "5_6", "target": "_parent", "title": "Firefox Add-Ons", "folder": true, "href": "Public/Firefox_Add-on/", "tooltip": "Firefox Add-ons"},
 		{"key": "5_7", "target": "_top", "title": "Agente Dynu (DynuIPUpdate)", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Internet&Rede/DynuIPUpdateClient_4.43.zip", "tooltip": "DynuIPUpdateClient_4.43.zip" },
 		{"key": "5_8", "target": "_top", "title": "Agente No-IP (No-IP DUC)", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Internet&Rede/No-IP_DUC_4.1.1.exe", "tooltip": "No-IP_DUC_4.1.1.exe" },
-		{"key": "5_9", "target": "_top", "title": "Dns Jumper", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Internet&Rede/Dns_Jumper_2.0.zip", "tooltip": "Dns_Jumper_2.0.zip" },
-		{"key": "5_10", "target": "_top", "title": "Flash Player (IE) /", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Internet&Rede/Flash_Player_IE_24.0.0.186.exe", "tooltip": "Flash_Player_IE_24.0.0.186.exe" },
-		{"key": "5_11", "target": "_top", "title": "Flash Player (Non-IE) /", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Internet&Rede/Flash_Player_Non-IE_24.0.0.186.exe", "tooltip": "Flash_Player_Non-IE_24.0.0.186.exe" },
+		{"key": "5_9", "target": "_top", "title": "Dns Jumper", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Internet&Rede/Dns_Jumper_2.1.zip", "tooltip": "Dns_Jumper_2.1.zip" },
+		{"key": "5_10", "target": "_top", "title": "Flash Player (IE) /", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Internet&Rede/Flash_Player_IE_24.0.0.194.exe", "tooltip": "Flash_Player_IE_24.0.0.194.exe" },
+		{"key": "5_11", "target": "_top", "title": "Flash Player (Non-IE) /", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Internet&Rede/Flash_Player_Non-IE_24.0.0.194.exe", "tooltip": "Flash_Player_Non-IE_24.0.0.194.exe" },
 		{"key": "5_12", "target": "_top", "title": "GlassWire Firewall", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Internet&Rede/GlassWire_Firewall_1.2.88.exe", "tooltip": "GlassWire_Firewall_1.2.88.exe" },
 		{"key": "5_13", "target": "_top", "title": "Java (JRE) v8 32Bit /", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Internet&Rede/Java_Runtime_Environment_32_8_8u111.exe", "tooltip": "Java_Runtime_Environment_32_8_8u111.exe" },
 		{"key": "5_14", "target": "_top", "title": "Java (JRE) v8 64Bit /", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Internet&Rede/Java_Runtime_Environment_64_8_8u111.exe", "tooltip": "Java_Runtime_Environment_64_8_8u111.exe" },
@@ -100,7 +100,7 @@
 		{"key": "6_1", "target": "_top", "title": "Ferramenta de Atualização para Windows 10", "href": "https://go.microsoft.com/fwlink/?LinkId=691209" },
 		{"key": "6_2", "target": "_top", "title": "Ativar ou desativar atualizações Windows 10", "href": "https://download.microsoft.com/download/F/2/2/F22D5FDB-59CD-4275-8C95-1BE17BF70B21/wushowhide.diagcab" },
 		{"key": "6_3", "target": "_top", "title": "Windows and Office ISO Download Tool", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Utilitarios/Microsoft_Windows_and_Office_ISO_Download_Tool_4.11.exe" },
-		{"key": "6_4", "target": "_top", "title": "Windows and Office Offline Update", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Utilitarios/WSUS_Offline_Update_10.8.1.zip" },
+		{"key": "6_4", "target": "_top", "title": "Windows and Office Offline Update", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Utilitarios/WSUS_Offline_Update_10.9.zip" },
 		{"key": "6_4", "target": "_top", "title": "Windows Update MiniTool", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Utilitarios/Windows_Update_MiniTool_20.12.2016.zip" },
 		{"key": "6_5", "target": "_top", "title": "Windows USB-DVD Download Tool", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Microsoft/Windows_USB-DVD_Download_Tool.exe" },
 		{"key": "6_6", "target": "_top", "title": "Advisor Upgrade Windows 7", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Microsoft/Windows7AdvisorUpgradeSetup.exe" },
@@ -141,7 +141,7 @@
 		{"key": "7_3", "target": "_top", "title": "iTunes 32Bit", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Multimedia/iTunes_32_12.1.3.exe", "tooltip": "iTunes_32_12.1.3.exe" },
 		{"key": "7_4", "target": "_top", "title": "iTunes 64Bit", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Multimedia/iTunes_64_12.1.3.exe", "tooltip": "iTunes_64_12.1.3.exe" },
 		{"key": "7_5", "target": "_top", "title": "K-Lite Codec Pack (Full) /", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Multimedia/K-Lite_Codec_Pack_12.75.exe", "tooltip": "K-Lite_Codec_Pack_12.75.exe" },
-		{"key": "7_6", "target": "_top", "title": "KMPlayer", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Multimedia/KMPlayer_4.1.5.6.exe", "tooltip": "KMPlayer_4.1.5.6.exe" },
+		{"key": "7_6", "target": "_top", "title": "KMPlayer", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Multimedia/KMPlayer_4.1.5.8.exe", "tooltip": "KMPlayer_4.1.5.8.exe" },
 		{"key": "7_7", "target": "_top", "title": "Kodi", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Multimedia/Kodi_16.1-Jarvis.exe", "tooltip": "Kodi_16.1-Jarvis.exe" },
 		{"key": "7_8", "target": "_top", "title": "Mp3Tag", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Multimedia/Mp3Tag_2.80.exe", "tooltip": "Mp3Tag_2.80.exe" },
 		{"key": "7_9", "target": "_top", "title": "Picasa", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Multimedia/Picasa_3.9.exe", "tooltip": "Picasa_3.9.exe" },
@@ -155,7 +155,7 @@
 		{"key": "8_1", "target": "_top", "title": "Adobe Acrobat Reader DC /", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Pdf/Adobe_Acrobat_Reader_DC_2015.020.20039.exe", "tooltip": "Adobe_Acrobat_Reader_DC_2015.020.20039.exe" },
 		{"key": "8_1", "target": "_top", "title": "Adobe Acrobat Reader 11", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Pdf/Adobe_Reader_1100.msi", "tooltip": "Adobe_Reader_1100.msi" },
 		{"key": "8_2", "target": "_top", "title": "Adobe Acrobat Reader 5", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Pdf/Adobe_Reader_500enu.exe", "tooltip": "Adobe_Reader_500enu.exe" },
-		{"key": "8_3", "target": "_top", "title": "Foxit Reader", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Pdf/Foxit_Reader_8.1.4.1208.exe", "tooltip": "Foxit_Reader_8.1.4.1208.exe" },
+		{"key": "8_3", "target": "_top", "title": "Foxit Reader", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Pdf/Foxit_Reader_8.2.0.2051.exe", "tooltip": "Foxit_Reader_8.2.0.2051.exe" },
 		{"key": "8_4", "target": "_top", "title": "GreenCloud Printer", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Pdf/GreenCloud_Printer_7.8.0.0.exe", "tooltip": "GreenCloud_Printer_7.8.0.0.exe" },
 		{"key": "8_5", "target": "_top", "title": "Ninite PDFCreator e Adobe Acrobat Reader DC /", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Pdf/Ninite_PDFCreator_ReaderDC.exe", "tooltip": "Ninite_PDFCreator_ReaderDC.exe" },
 		{"key": "8_6", "target": "_top", "title": "PDF24 Creator", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Pdf/PDF24_Creator_8.0.4.exe", "tooltip": "PDF24_Creator_8.0.4.exe" },
@@ -165,7 +165,7 @@
     ]},
     {"key": "9", "title": "Remoto", "folder": true, "children": [
 		{"key": "9_1", "target": "_top", "title": "AeroAdmin", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Remoto/AeroAdmin_4.1.exe", "tooltip": "AeroAdmin_4.1.exe" },
-		{"key": "9_2", "target": "_top", "title": "AnyDesk", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Remoto/AnyDesk_3.1.0.exe", "tooltip": "AnyDesk_3.1.0.exe" },
+		{"key": "9_2", "target": "_top", "title": "AnyDesk", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Remoto/AnyDesk_3.1.1.exe", "tooltip": "AnyDesk_3.1.1.exe" },
 		{"key": "9_3", "target": "_top", "title": "AnyDesk TightVNC DFMirage", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Remoto/AnyDesk_TightVNC_DFMirage_2.0.301.exe", "tooltip": "AnyDesk_TightVNC_DFMirage_2.0.301.exe" },
 		{"key": "9_4", "target": "_top", "title": "Anyplace Control", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Remoto/Anyplace_Control_7.1.exe", "tooltip": "Anyplace_Control_7.1.exe" },
 		{"key": "9_5", "target": "_top", "title": "Ativar Ctrl+Alt+Del no VNC em Windows 7+", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Remoto/Ativar_CAD_VNC_Win7+.bat", "tooltip": "Ativar_CAD_VNC_Win7+.bat" },
@@ -205,7 +205,7 @@
 			{"key": "10_1_12", "target": "_top", "title": "SpeedFan", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Utilitarios/SpeedFan_4.52.exe", "tooltip": "SpeedFan_4.52.exe" },
 			{"key": "10_1_13", "target": "_top", "title": "Lazesoft Windows Keyfinder", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Utilitarios/Lazesoft_Windows_Key_Finder_1.6.exe", "tooltip": "Lazesoft_Windows_Key_Finder_1.6.exe" },
 			{"key": "10_1_14", "target": "_top", "title": "SIW", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Utilitarios/SIW.exe", "tooltip": "SIW.exe" },
-			{"key": "10_1_15", "target": "_top", "title": "SUMo Portable (Verificar Atualizações)", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Utilitarios/SUMo_Portable_5.0.11.347.zip", "tooltip": "SUMo_Portable_5.0.11.347.zip" }
+			{"key": "10_1_15", "target": "_top", "title": "SUMo Portable (Verificar Atualizações)", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Utilitarios/SUMo_Portable_5.0.12.348.zip", "tooltip": "SUMo_Portable_5.0.12.348.zip" }
         ]},
         {"key": "10_2", "title": "Diversos", "folder": true, "children": [
 			{"key": "10_2_1", "target": "_top", "title": "BulkFileChanger", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Diversos/BulkFileChanger.exe", "tooltip": "BulkFileChanger.exe" },
@@ -237,7 +237,7 @@
 		{"key": "10_9", "target": "_top", "title": "Chameleon Shutdown", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Utilitarios/Chameleon_Shutdown_1.2.2.40.exe", "tooltip": "Chameleon_Shutdown_1.2.2.40.exe" },
 		{"key": "10_10", "target": "_top", "title": "CreativeElementPowerTools", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Utilitarios/CreativeElementPowerToolsFull_3.0.6.exe", "tooltip": "CreativeElementPowerToolsFull_3.0.6.exe" },
 		{"key": "10_11", "target": "_top", "title": "Driver Easy", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Utilitarios/Driver_Easy_5.1.5.5598.exe", "tooltip": "Driver_Easy_5.1.5.5598.exe" },
-		{"key": "10_12", "target": "_top", "title": "IObit Uninstaller", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Utilitarios/IObit_Uninstaller_6.1.0.26.exe", "tooltip": "IObit_Uninstaller_6.1.0.26.exe" },
+		{"key": "10_12", "target": "_top", "title": "IObit Uninstaller", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Utilitarios/IObit_Uninstaller_6.2.0.933.exe", "tooltip": "IObit_Uninstaller_6.2.0.933.exe" },
 		{"key": "10_13", "target": "_top", "title": "iPrint", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Utilitarios/iPrintSetup.exe", "tooltip": "iPrintSetup.exe" },
 		{"key": "10_14", "target": "_top", "title": "Ketarin", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Utilitarios/Ketarin_1.8.7.zip", "tooltip": "Ketarin_1.8.7.zip" },
 		{"key": "10_15", "target": "_top", "title": "Launchy", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Utilitarios/Launchy_2.6Beta2.exe", "tooltip": "Launchy_2.6Beta2.exe" },
