@@ -5,7 +5,7 @@ pipelines:
           plugins:
           # Oh nice, comments!
           - name: basic-auth
-               options:
+          - options:
                   username: "$BASIC_AUTH_USERNAME"
                   password: "$BASIC_AUTH_PASSWORD"
           script:
