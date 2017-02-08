@@ -1,4 +1,7 @@
-id: <7e53b14e-3119-4c9a-984b-dcf1cc3e6f0b>
+id: c44bda22-a868-4b0d-9958-711751ea4906
+deploy:
+  ignore: []
+  directory: .
 plugins:
   # Oh nice, comments!
   - name: basic-auth
@@ -9,3 +12,5 @@ plugins:
   - name: custom-errors
     options:
       404: 404.html # Custom 404 page
+      
+  - name: webpage
