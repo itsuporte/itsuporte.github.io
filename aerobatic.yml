@@ -8,9 +8,4 @@ plugins:
     options:
       username: "$BASIC_AUTH_USERNAME"
       password: "$BASIC_AUTH_PASSWORD"
-
-  - name: custom-errors
-    options:
-      404: 404.html # Custom 404 page
-      
   - name: webpage
