@@ -4,4 +4,5 @@ pipelines:
       - step:
           script:
           - npm install -g aerobatic-cli   # Install the aero CLI
+          - aero env -n AEROBATIC_API_KEY -v ce47da40-6507-4794-9559-30fef4f3ce2e
           - aero deploy --directory /      # Deploy the built site to Aerobatic
