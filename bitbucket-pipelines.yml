@@ -6,8 +6,8 @@ pipelines:
           # Oh nice, comments!
           - name: basic-auth
           - options:
-                  username: "$BASIC_AUTH_USERNAME"
-                  password: "$BASIC_AUTH_PASSWORD"
+                  Email: "$BASIC_AUTH_USERNAME"
+                  Password: "$BASIC_AUTH_PASSWORD"
           script:
           - npm install -g aerobatic-cli   # Install the aero CLI
           - aero login
