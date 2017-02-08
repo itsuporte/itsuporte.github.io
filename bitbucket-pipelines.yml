@@ -2,6 +2,12 @@ pipelines:
   branches:
     master:
       - step:
+          plugins:
+          # Oh nice, comments!
+          - name: basic-auth
+               options:
+                  username: "$BASIC_AUTH_USERNAME"
+                  password: "$BASIC_AUTH_PASSWORD"
           script:
           - npm install -g aerobatic-cli   # Install the aero CLI
           #- aero login
