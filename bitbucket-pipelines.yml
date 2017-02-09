@@ -9,6 +9,7 @@ pipelines:
     master:
       - step:
           script:
+          - composer install
           - npm install -g aerobatic-cli   # Install the aero CLI
           - aero login
           - aero env -n AEROBATIC_API_KEY -v $AEROBATIC_API_KEY
