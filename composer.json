@@ -1,7 +1,7 @@
 {
     "require": {
         "monolog/monolog": "1.0.*",
-        "phpunit/phpunit": "4.3.*"
+        "phpunit/phpunit": "4.3.*",
         "php": ">=5.3.0"
     },
     "autoload": {
