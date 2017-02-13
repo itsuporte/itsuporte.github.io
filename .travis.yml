@@ -1,18 +1,31 @@
-sudo: false
 language: ruby
-rvm: 2.2
-env:
-  global:
-    - TRAVIS_NODE_VERSION="6.9.5"
+rvm:
+- 2.2.2
+script:
+  - npm install
+  - npm run lint
+  - bundle exec jekyll build
+#env:
+#  global:
+#    - TRAVIS_NODE_VERSION="6.9.5"
 install:
   - rm -rf ~/.nvm && git clone https://github.com/creationix/nvm.git ~/.nvm
   - (cd ~/.nvm && git checkout `git describe --abbrev=0 --tags`)
   - source ~/.nvm/nvm.sh
-  - nvm install $TRAVIS_NODE_VERSION
-  - bundle install
-  - npm install
+#  - nvm install $TRAVIS_NODE_VERSION
+#  - bundle install
+#  - npm install
 script:
+  - npm install
+  - npm run lint
   - bundle exec jekyll build
+branches:
+  only:
+  - /.*/
+cache: bundler
+notifications:
+  email: false
+sudo: false
 after_success:
   - npm install aerobatic-cli -g
   - aero deploy \
