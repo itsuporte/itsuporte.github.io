@@ -15,9 +15,6 @@ script:
   - npm install
   - npm run lint
   - bundle exec jekyll build
-branches:
-  only:
-  - /.*/
 cache: bundler
 notifications:
   email: false
