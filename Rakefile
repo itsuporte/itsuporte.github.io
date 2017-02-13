@@ -4,10 +4,12 @@
 # https://github.com/jekyll/jekyll/blob/master/Rakefile
 #
 #############################################################################
-
-require 'rake'
-require 'date'
-require 'yaml'
+require "rubygems"
+require "rake"
+require "rdoc"
+require "date"
+require "yaml"
+require "jekyll/version"
 
 CONFIG = YAML.load(File.read('_config.yml'))
 USERNAME = CONFIG["username"] || ENV['GIT_NAME']
