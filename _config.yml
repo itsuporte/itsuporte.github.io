@@ -1,6 +1,6 @@
 safe: false
 lsi: false
-pygments: true
+highlighter: pygments
 
 relative_source: /
 destination: /
