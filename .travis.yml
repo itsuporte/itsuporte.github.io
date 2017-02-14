@@ -1,35 +1,21 @@
 language: ruby
 rvm:
-- 2.2.2
-node_js:
-  - "4.1.2"
-#cache: yarn
-cache:
-   directories:
-     - node_modules
-#env:
-#  global:
-#    - TRAVIS_NODE_VERSION="6.9.5"
-install:
-  - rm -rf ~/.nvm && git clone https://github.com/creationix/nvm.git ~/.nvm
-  - (cd ~/.nvm && git checkout `git describe --abbrev=0 --tags`)
-  - source ~/.nvm/nvm.sh
-  - nvm install "4.1.2"
-  - bundle install
-  - npm install
-  - npm run install-all
+- 2.3.3
+
 before_script:
-  - npm install -g grunt-cli
-script:
-  - grunt travis
-  - npm run lint
-  - bundle exec jekyll build
-cache: bundler
-notifications:
-  email: false
-sudo: false
-after_success:
-  - npm install aerobatic-cli -g
-  - aero deploy \
-    --commit-url "https://github.com/itsuporte/itsuporte.github.io/commit/${TRAVIS_COMMIT}" \
-    --directory _site
+ - chmod +x ./script/cibuild # or do this locally and commit
+
+# Assume bundler is being used, therefore
+# the `install` step will run `bundle install` by default.
+script: ./script/cibuild
+
+# branch whitelist, only for GitHub Pages
+branches:
+  only:
+  - master     # test the master branch
+  
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+
+sudo: false # route your build to the container-based infrastructure for a faster build
