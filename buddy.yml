@@ -7,11 +7,14 @@
   - action: "Execute: jekyll build"
     type: "BUILD"
     docker_image_name: "jekyll/jekyll"
-    docker_image_tag: "3.2"
+    docker_image_tag: "latest"
     execute_commands:
     - "# Working directory with cloned repository: /itsuporte-github-io"
     - "# Click the link at the bottom for more options"
     - "jekyll build"
+    services:
+    - type: "MYSQL"
+      version: "5.7"
   - action: "Push to https://itsuporte@bitbucket.org/itsuporte/itsuporte.git"
     type: "PUSH"
     login: "itsuporte@outlook.pt"
