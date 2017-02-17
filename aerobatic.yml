@@ -4,8 +4,8 @@ deploy:
   directory: .
 plugins:
   # Oh nice, comments!
-  - name: basic-auth
-    options:
-      username: "$BASIC_AUTH_USERNAME"
-      password: "$BASIC_AUTH_PASSWORD"
+  #- name: basic-auth
+  #  options:
+  #    username: "$BASIC_AUTH_USERNAME"
+  #    password: "$BASIC_AUTH_PASSWORD"
   - name: webpage
