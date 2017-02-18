@@ -5,7 +5,6 @@ bundle exec jekyll build
 #bundle exec htmlproofer ./_site --disable-external
 
 #Neocities
-nvm install stable
 npm install -g hexo-cli
 npm install --save hexo-deployer-neocities
 hexo deploy
