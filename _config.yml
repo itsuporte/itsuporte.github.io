@@ -16,6 +16,12 @@ username: itsuporte
 repo: itsuporte.github.io
 branch: master
 
+# Neocities
+deploy:
+  type: neocities
+  user: SOMESUCHUSERNAME
+  pass: SOMESUCHPASSWORD
+
 exclude:
   - README.md
   - Rakefile
