@@ -5,6 +5,8 @@ bundle exec jekyll build
 #bundle exec htmlproofer ./_site --disable-external
 
 #Neocities
+var NeoCities = require('neocities')
+var api = new NeoCities('NEOUSERNAME', 'NEOPASSWORD')
 npm install neocities --global
 
 #Hexo
