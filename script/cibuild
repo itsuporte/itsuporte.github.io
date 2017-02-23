@@ -3,16 +3,3 @@ set -e # halt script on error
 
 bundle exec jekyll build
 #bundle exec htmlproofer ./_site --disable-external
-
-#Neocities
-npm install neocities --global
-
-#Hexo
-npm install hexo-cli -g
-hexo init ./
-npm install
-#hexo server
-
-#Neocities & Hexo
-npm install -save hexo-deployer-neocities
-hexo deploy
