@@ -12,7 +12,7 @@ npm install hexo-cli -g
 hexo init site
 cd site
 npm install
-hexo server
+#hexo server
 
 #Neocities & Hexo
 npm install -save hexo-deployer-neocities
