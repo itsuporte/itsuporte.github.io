@@ -16,13 +16,6 @@ username: itsuporte
 repo: itsuporte.github.io
 branch: master
 
-# Deployment
-## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: neocities
-  user: NEOUSERNAME
-  pass: NEOPASSWORD
-
 exclude:
   - README.md
   - Rakefile
