@@ -9,7 +9,7 @@ npm install neocities --global
 
 #Hexo
 npm install hexo-cli -g
-hexo init
+hexo init ./
 npm install
 #hexo server
 
