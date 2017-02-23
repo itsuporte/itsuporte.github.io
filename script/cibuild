@@ -6,6 +6,14 @@ bundle exec jekyll build
 
 #Neocities
 npm install neocities --global
+
+#Hexo
 npm install hexo-cli -g
+hexo init site
+cd site
+npm install
+hexo server
+
+#Neocities & Hexo
 npm install -save hexo-deployer-neocities
 hexo deploy
