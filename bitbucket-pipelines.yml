@@ -6,4 +6,4 @@ pipelines:
       - step:
           script:
             - npm install aerobatic-cli -g
-            - aero deploy
+            - aero deploy --force
