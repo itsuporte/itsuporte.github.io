@@ -19,18 +19,3 @@ env:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
 
 sudo: false # route your build to the container-based infrastructure for a faster build
-
-language: node_js
-node_js:
- - '0.11'
-
-before_install:
- - travis_retry gem install bitballoon
-
-script: node_modules/punch/bin/punch g
-
-after_success: bitballoon deploy output --access-token=$BB_ACCESS_TOKEN --site-id=$BB_SITE_ID
-
-branches:
-  only:
-    - master
