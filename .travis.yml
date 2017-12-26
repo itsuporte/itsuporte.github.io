@@ -1,5 +1,16 @@
 matrix:
   include:
+      #BITBALLOON 
+      - language: node_js
+        node_js:
+        - '0.11'
+        before_install:
+        - travis_retry gem install bitballoon
+        script: node_modules/punch/bin/punch g
+        after_success: bitballoon deploy output --access-token=$BB_ACCESS_TOKEN --site-id=$BB_SITE_ID
+        branches:
+          only:
+            - master
 
       - language: ruby
         rvm:
@@ -39,15 +50,3 @@ matrix:
           - npm install aerobatic-cli -g
           - aero deploy --force
             --directory _site
-
-        #BITBALLOON 
-      - language: node_js
-        node_js:
-        - '0.11'
-        before_install:
-        - travis_retry gem install bitballoon
-        script: node_modules/punch/bin/punch g
-        after_success: bitballoon deploy output --access-token=$BB_ACCESS_TOKEN --site-id=$BB_SITE_ID
-        branches:
-          only:
-            - master
