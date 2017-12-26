@@ -12,12 +12,11 @@ script: ./script/cibuild
 # branch whitelist, only for GitHub Pages
 branches:
   only:
-  - master     # test the master branch
+  - master # test the master branch
   
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
-  - secure: <encrypted_env_vars> # See AEROBATIC_API_KEY below
   - TRAVIS_NODE_VERSION="6.9.5"
 
 sudo: false # route your build to the container-based infrastructure for a faster build
@@ -35,7 +34,6 @@ install:
 
 after_success:
   - npm install aerobatic-cli -g
-  - aero deploy \
-    --commit-url "https://github.com/itsuporte/itsuporte.github.io/edit/master/${TRAVIS_COMMIT}" \
+  - aero deploy --force
     --directory _site
 
