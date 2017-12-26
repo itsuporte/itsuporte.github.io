@@ -17,5 +17,25 @@ branches:
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+  - secure: <encrypted_env_vars> # See AEROBATIC_API_KEY below
+  - TRAVIS_NODE_VERSION="6.9.5"
 
 sudo: false # route your build to the container-based infrastructure for a faster build
+
+script:
+  - bundle exec jekyll build
+
+install:
+  - rm -rf ~/.nvm && git clone https://github.com/creationix/nvm.git ~/.nvm
+  - (cd ~/.nvm && git checkout `git describe --abbrev=0 --tags`)
+  - source ~/.nvm/nvm.sh
+  - nvm install $TRAVIS_NODE_VERSION
+  - bundle install --path vendor/bundle
+  - npm install
+
+after_success:
+  - npm install aerobatic-cli -g
+  - aero deploy \
+    --commit-url "https://github.com/itsuporte/itsuporte.github.io/edit/master/${TRAVIS_COMMIT}" \
+    --directory _site
+
