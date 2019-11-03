@@ -36,3 +36,5 @@ after_success:
   - npm install aerobatic-cli -g
   - aero deploy --force
     --directory _site
+  - npm install -g firebase-tools
+  - firebase deploy --token=${FIREBASE_API_TOKEN}
