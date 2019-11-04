@@ -10,7 +10,6 @@
     "target": "itsuporte",
     "public": "itsuporte/dist/",
     "ignore": [
-      //"firebase.json",
       "**/.*",
       "**/node_modules/**"
     ],
