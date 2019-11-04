@@ -37,4 +37,5 @@ after_success:
   - aero deploy --force
     --directory _site
   - npm install -g firebase-tools
-  - firebase deploy --project webupdates --only hosting:itsuporte --token=${FIREBASE_API_TOKEN}
+  - firebase target:apply hosting itsuporte itsuporte
+  - firebase deploy --token=${FIREBASE_API_TOKEN}
