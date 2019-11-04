@@ -8,7 +8,7 @@
   },
   "hosting": {
     "target": "itsuporte",
-    "public": "itsuporte/public",
+    "public": "itsuporte",
     "ignore": [
       "firebase.json",
       "**/.*",
