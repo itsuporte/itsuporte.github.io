@@ -7,8 +7,8 @@
     "indexes": "firestore.indexes.json"
   },
   "hosting": {
-    "target": "itsuporte",
-    "public": "itsuporte/dist/",
+    "target": "webip",
+    "public": "web/itsuporte",
     "ignore": [
       "**/.*",
       "**/node_modules/**"
