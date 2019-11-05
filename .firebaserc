@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "webupdates": {
+      "hosting": {
+        "webip": [
+          "itsuporte"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "webupdates"
+  }
+}
