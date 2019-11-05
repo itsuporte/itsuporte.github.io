@@ -8,8 +8,9 @@
   },
   "hosting": {
     "target": "webip",
-    "public": "web/itsuporte",
+    "public": "./",
     "ignore": [
+      "firebase.json",
       "**/.*",
       "**/node_modules/**"
     ],
