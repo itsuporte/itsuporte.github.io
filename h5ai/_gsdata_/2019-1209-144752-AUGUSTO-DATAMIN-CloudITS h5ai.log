@@ -1,0 +1,165 @@
+2019-12-09 14:47:52: On File Change Monitoring started on file:///C:/Cloud/Dropbox/Public/h5ai
+2019-12-09 14:47:53: File Monitoring not available on: backblaze://api.backblazeb2.com/CloudITS
+2019-12-09 14:47:53: Remote File System with No monitoring, disconnect
+2019-12-09 14:47:54: -- Analysis Started by On File Change First Full Analyze Upon File Monitoring Start
+2019-12-09 14:47:54: Esquerda: State file does not exist: C:/Cloud/Dropbox/Public/h5ai/_gsdata_/_file_state_v4._gs
+2019-12-09 14:47:56: Deleted abandoned lock file at backblaze://api.backblazeb2.com/CloudITS
+2019-12-09 14:47:58: Found mirror state file (left by unfinished sync), use it instead of remote state file: C:/Users/Augusto/AppData/Local/GoodSync/_mirrors_/backblaze-f0020586e010@api.backblazeb2.com-CloudITS/_file_state_v4._gs
+2019-12-09 14:48:22: Waiting for 8(120) sec on verb POST: Server says:  (status code 503): (service_unavailable) c002_v0001133_t0012 is too busy
+2019-12-09 14:48:37: Waiting for 8(120) sec on verb POST: Server says:  (status code 503): (service_unavailable) c002_v0001133_t0027 is too busy
+2019-12-09 14:48:49: Do Not Propagate Deletions: 1-way deletions reverted: 5
+2019-12-09 14:48:49: Changes: 141, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 960
+2019-12-09 14:48:49: Left to Right: Copy File: 141 
+2019-12-09 14:48:50: == Sync Started by On File Change First Full Analyze Upon File Monitoring Start
+2019-12-09 14:48:51: Create Folder 'backblaze://api.backblazeb2.com/CloudITS/private'
+2019-12-09 14:48:52: Create Folder 'backblaze://api.backblazeb2.com/CloudITS/private/cache'
+2019-12-09 14:48:54: Create Folder 'backblaze://api.backblazeb2.com/CloudITS/private/conf'
+2019-12-09 14:48:56: Create Folder 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n'
+2019-12-09 14:48:58: Create Folder 'backblaze://api.backblazeb2.com/CloudITS/private/php'
+2019-12-09 14:49:01: Create Folder 'backblaze://api.backblazeb2.com/CloudITS/private/php/core'
+2019-12-09 14:49:02: Create Folder 'backblaze://api.backblazeb2.com/CloudITS/private/php/ext'
+2019-12-09 14:49:03: Create Folder 'backblaze://api.backblazeb2.com/CloudITS/private/php/pages'
+2019-12-09 14:49:05: Create Folder 'backblaze://api.backblazeb2.com/CloudITS/public'
+2019-12-09 14:49:07: Create Folder 'backblaze://api.backblazeb2.com/CloudITS/public/cache'
+2019-12-09 14:49:08: Create Folder 'backblaze://api.backblazeb2.com/CloudITS/public/css'
+2019-12-09 14:49:09: Create Folder 'backblaze://api.backblazeb2.com/CloudITS/public/ext'
+2019-12-09 14:49:13: Create Folder 'backblaze://api.backblazeb2.com/CloudITS/public/images'
+2019-12-09 14:49:15: Create Folder 'backblaze://api.backblazeb2.com/CloudITS/public/images/fallback'
+2019-12-09 14:49:16: Create Folder 'backblaze://api.backblazeb2.com/CloudITS/public/images/favicon'
+2019-12-09 14:49:17: Waiting for 8(120) sec on verb POST: Server says:  (status code 503): (service_unavailable) c002_v0001111_t0055 is too busy
+2019-12-09 14:49:27: Create Folder 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes'
+2019-12-09 14:49:29: Create Folder 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/comity'
+2019-12-09 14:49:31: Create Folder 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/default'
+2019-12-09 14:49:33: Create Folder 'backblaze://api.backblazeb2.com/CloudITS/public/images/ui'
+2019-12-09 14:49:34: Create Folder 'backblaze://api.backblazeb2.com/CloudITS/public/js'
+2019-12-09 14:49:35: Waiting for 8(120) sec on verb POST: Server says:  (status code 503): (service_unavailable) c002_v0001122_t0041 is too busy
+2019-12-09 14:49:46: Copy New 'C:/Cloud/Dropbox/Public/h5ai/.htaccess' -> 'backblaze://api.backblazeb2.com/CloudITS/.htaccess' (7.327)
+2019-12-09 14:49:48: Copy New 'C:/Cloud/Dropbox/Public/h5ai/CHANGELOG.md' -> 'backblaze://api.backblazeb2.com/CloudITS/CHANGELOG.md' (18.943)
+2019-12-09 14:49:50: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/cache/README.md' -> 'backblaze://api.backblazeb2.com/CloudITS/private/cache/README.md' (235)
+2019-12-09 14:49:51: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/af.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/af.json' (411)
+2019-12-09 14:49:52: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/bg.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/bg.json' (548)
+2019-12-09 14:49:54: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/cs.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/cs.json' (448)
+2019-12-09 14:49:56: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/da.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/da.json' (408)
+2019-12-09 14:49:58: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/de.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/de.json' (514)
+2019-12-09 14:50:00: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/el.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/el.json' (582)
+2019-12-09 14:50:02: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/en.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/en.json' (566)
+2019-12-09 14:50:05: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/es.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/es.json' (540)
+2019-12-09 14:50:08: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/et.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/et.json' (512)
+2019-12-09 14:50:10: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/fi.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/fi.json' (414)
+2019-12-09 14:50:12: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/fr.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/fr.json' (543)
+2019-12-09 14:50:15: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/he.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/he.json' (440)
+2019-12-09 14:50:16: Waiting for 8(120) sec on verb POST: Server says:  (status code 503): (service_unavailable) c002_v0001122_t0005 is too busy
+2019-12-09 14:50:26: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/hi.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/hi.json' (601)
+2019-12-09 14:50:29: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/hr.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/hr.json' (421)
+2019-12-09 14:50:31: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/hu.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/hu.json' (383)
+2019-12-09 14:50:32: Waiting for 8(120) sec on verb POST: Server says:  (status code 503): (service_unavailable) c002_v0001122_t0049 is too busy
+2019-12-09 14:50:42: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/it.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/it.json' (425)
+2019-12-09 14:50:44: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/ja.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/ja.json' (557)
+2019-12-09 14:50:45: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/ko.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/ko.json' (545)
+2019-12-09 14:50:47: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/lv.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/lv.json' (536)
+2019-12-09 14:50:51: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/nb.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/nb.json' (328)
+2019-12-09 14:50:52: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/nl.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/nl.json' (515)
+2019-12-09 14:50:54: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/pl.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/pl.json' (523)
+2019-12-09 14:50:55: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/pt.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/pt.json' (432)
+2019-12-09 14:50:57: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/ro.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/ro.json' (334)
+2019-12-09 14:50:59: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/ru.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/ru.json' (574)
+2019-12-09 14:51:00: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/sk.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/sk.json' (291)
+2019-12-09 14:51:04: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/sl.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/sl.json' (423)
+2019-12-09 14:51:15: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/sr.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/sr.json' (354)
+2019-12-09 14:51:16: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/sv.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/sv.json' (370)
+2019-12-09 14:51:18: Waiting for 8(120) sec on verb POST: Server says:  (status code 503): (service_unavailable) c002_v0001122_t0022 is too busy
+2019-12-09 14:51:28: Waiting for 8(120) sec on verb POST: Server says:  (status code 503): (service_unavailable) c002_v0001118_t0016 is too busy
+2019-12-09 14:51:39: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/tr.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/tr.json' (296)
+2019-12-09 14:51:40: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/uk.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/uk.json' (541)
+2019-12-09 14:51:42: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/zh-cn.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/zh-cn.json' (545)
+2019-12-09 14:51:44: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/l10n/zh-tw.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/l10n/zh-tw.json' (557)
+2019-12-09 14:51:49: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/options.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/options.json' (12.178)
+2019-12-09 14:51:50: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/conf/types.json' -> 'backblaze://api.backblazeb2.com/CloudITS/private/conf/types.json' (3.159)
+2019-12-09 14:51:52: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/php/class-bootstrap.php' -> 'backblaze://api.backblazeb2.com/CloudITS/private/php/class-bootstrap.php' (1.606)
+2019-12-09 14:51:54: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/php/core/class-api.php' -> 'backblaze://api.backblazeb2.com/CloudITS/private/php/core/class-api.php' (4.277)
+2019-12-09 14:51:57: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/php/core/class-context.php' -> 'backblaze://api.backblazeb2.com/CloudITS/private/php/core/class-context.php' (9.006)
+2019-12-09 14:51:58: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/php/core/class-fallback.php' -> 'backblaze://api.backblazeb2.com/CloudITS/private/php/core/class-fallback.php' (1.925)
+2019-12-09 14:52:00: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/php/core/class-filesize.php' -> 'backblaze://api.backblazeb2.com/CloudITS/private/php/core/class-filesize.php' (2.389)
+2019-12-09 14:52:01: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/php/core/class-item.php' -> 'backblaze://api.backblazeb2.com/CloudITS/private/php/core/class-item.php' (2.560)
+2019-12-09 14:52:03: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/php/core/class-json.php' -> 'backblaze://api.backblazeb2.com/CloudITS/private/php/core/class-json.php' (1.967)
+2019-12-09 14:52:04: Waiting for 8(120) sec on verb POST: Server says:  (status code 503): (service_unavailable) c002_v0001133_t0041 is too busy
+2019-12-09 14:52:15: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/php/core/class-logger.php' -> 'backblaze://api.backblazeb2.com/CloudITS/private/php/core/class-logger.php' (753)
+2019-12-09 14:52:17: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/php/core/class-request.php' -> 'backblaze://api.backblazeb2.com/CloudITS/private/php/core/class-request.php' (1.363)
+2019-12-09 14:52:19: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/php/core/class-session.php' -> 'backblaze://api.backblazeb2.com/CloudITS/private/php/core/class-session.php' (485)
+2019-12-09 14:52:20: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/php/core/class-setup.php' -> 'backblaze://api.backblazeb2.com/CloudITS/private/php/core/class-setup.php' (6.590)
+2019-12-09 14:52:22: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/php/core/class-theme.php' -> 'backblaze://api.backblazeb2.com/CloudITS/private/php/core/class-theme.php' (935)
+2019-12-09 14:52:24: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/php/core/class-util.php' -> 'backblaze://api.backblazeb2.com/CloudITS/private/php/core/class-util.php' (2.791)
+2019-12-09 14:52:26: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/php/ext/class-archive.php' -> 'backblaze://api.backblazeb2.com/CloudITS/private/php/ext/class-archive.php' (6.476)
+2019-12-09 14:52:28: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/php/ext/class-custom.php' -> 'backblaze://api.backblazeb2.com/CloudITS/private/php/ext/class-custom.php' (2.056)
+2019-12-09 14:52:29: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/php/ext/class-search.php' -> 'backblaze://api.backblazeb2.com/CloudITS/private/php/ext/class-search.php' (1.263)
+2019-12-09 14:52:31: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/php/ext/class-thumb.php' -> 'backblaze://api.backblazeb2.com/CloudITS/private/php/ext/class-thumb.php' (8.116)
+2019-12-09 14:52:33: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/php/pages/index.php' -> 'backblaze://api.backblazeb2.com/CloudITS/private/php/pages/index.php' (1.348)
+2019-12-09 14:52:36: Copy New 'C:/Cloud/Dropbox/Public/h5ai/private/php/pages/info.php' -> 'backblaze://api.backblazeb2.com/CloudITS/private/php/pages/info.php' (1.318)
+2019-12-09 14:52:39: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/.htaccess' -> 'backblaze://api.backblazeb2.com/CloudITS/public/.htaccess' (226)
+2019-12-09 14:52:40: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/cache/README.md' -> 'backblaze://api.backblazeb2.com/CloudITS/public/cache/README.md' (234)
+2019-12-09 14:52:41: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/css/styles.css' -> 'backblaze://api.backblazeb2.com/CloudITS/public/css/styles.css' (24.762)
+2019-12-09 14:52:44: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/ext/README.md' -> 'backblaze://api.backblazeb2.com/CloudITS/public/ext/README.md' (170)
+2019-12-09 14:52:49: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/fallback/file.png' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/fallback/file.png' (118)
+2019-12-09 14:52:50: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/fallback/folder-parent.png' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/fallback/folder-parent.png' (108)
+2019-12-09 14:52:52: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/fallback/folder.png' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/fallback/folder.png' (99)
+2019-12-09 14:52:54: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/favicon/favicon-152.png' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/favicon/favicon-152.png' (219)
+2019-12-09 14:52:55: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/favicon/favicon-16-32.ico' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/favicon/favicon-16-32.ico' (5.430)
+2019-12-09 14:52:57: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/favicon/favicon-16.png' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/favicon/favicon-16.png' (96)
+2019-12-09 14:52:59: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/favicon/favicon-32.png' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/favicon/favicon-32.png' (120)
+2019-12-09 14:53:11: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/favicon/favicon.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/favicon/favicon.svg' (148)
+2019-12-09 14:53:13: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/themes/comity/ar-apk.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/comity/ar-apk.svg' (656)
+2019-12-09 14:53:14: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/themes/comity/ar-deb.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/comity/ar-deb.svg' (5.038)
+2019-12-09 14:53:16: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/themes/comity/ar-rpm.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/comity/ar-rpm.svg' (4.280)
+2019-12-09 14:53:28: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/themes/comity/txt-css.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/comity/txt-css.svg' (1.233)
+2019-12-09 14:53:29: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/themes/comity/txt-go.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/comity/txt-go.svg' (5.935)
+2019-12-09 14:53:31: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/themes/comity/txt-html.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/comity/txt-html.svg' (1.142)
+2019-12-09 14:53:32: Waiting for 8(120) sec on verb POST: Server says:  (status code 503): (service_unavailable) c002_v0001124_t0053 is too busy
+2019-12-09 14:53:43: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/themes/comity/txt-js.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/comity/txt-js.svg' (2.794)
+2019-12-09 14:53:49: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/themes/comity/txt-less.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/comity/txt-less.svg' (3.492)
+2019-12-09 14:53:51: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/themes/comity/txt-md.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/comity/txt-md.svg' (260)
+2019-12-09 14:53:53: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/themes/comity/txt-php.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/comity/txt-php.svg' (1.167)
+2019-12-09 14:53:54: Waiting for 8(120) sec on verb POST: Server says:  (status code 503): (service_unavailable) c002_v0001118_t0029 is too busy
+2019-12-09 14:54:04: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/themes/comity/txt-py.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/comity/txt-py.svg' (1.567)
+2019-12-09 14:54:08: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/themes/comity/txt-rb.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/comity/txt-rb.svg' (636)
+2019-12-09 14:54:10: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/themes/comity/txt-rust.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/comity/txt-rust.svg' (3.831)
+2019-12-09 14:54:12: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/themes/comity/txt-script.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/comity/txt-script.svg' (696)
+2019-12-09 14:54:13: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/themes/comity/x-pdf.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/comity/x-pdf.svg' (2.811)
+2019-12-09 14:54:15: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/themes/default/ar.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/default/ar.svg' (158)
+2019-12-09 14:54:19: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/themes/default/aud.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/default/aud.svg' (130)
+2019-12-09 14:54:21: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/themes/default/bin.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/default/bin.svg' (693)
+2019-12-09 14:54:23: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/themes/default/file.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/default/file.svg' (150)
+2019-12-09 14:54:25: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/themes/default/folder-page.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/default/folder-page.svg' (153)
+2019-12-09 14:54:27: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/themes/default/folder-parent.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/default/folder-parent.svg' (163)
+2019-12-09 14:54:28: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/themes/default/folder.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/default/folder.svg' (137)
+2019-12-09 14:54:30: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/themes/default/img.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/default/img.svg' (175)
+2019-12-09 14:54:33: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/themes/default/txt.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/default/txt.svg' (165)
+2019-12-09 14:54:37: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/themes/default/vid.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/default/vid.svg' (130)
+2019-12-09 14:54:39: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/themes/default/x.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/default/x.svg' (150)
+2019-12-09 14:54:41: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/themes/README.md' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/themes/README.md' (383)
+2019-12-09 14:54:42: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/ui/back.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/ui/back.svg' (241)
+2019-12-09 14:54:44: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/ui/crumb.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/ui/crumb.svg' (213)
+2019-12-09 14:54:46: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/ui/download.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/ui/download.svg' (217)
+2019-12-09 14:54:48: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/ui/filter.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/ui/filter.svg' (443)
+2019-12-09 14:54:50: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/ui/info-toggle.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/ui/info-toggle.svg' (331)
+2019-12-09 14:54:52: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/ui/paypal.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/ui/paypal.svg' (4.469)
+2019-12-09 14:54:53: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/ui/preview-close.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/ui/preview-close.svg' (267)
+2019-12-09 14:54:56: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/ui/preview-fullscreen.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/ui/preview-fullscreen.svg' (255)
+2019-12-09 14:54:59: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/ui/preview-next.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/ui/preview-next.svg' (213)
+2019-12-09 14:55:00: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/ui/preview-no-fullscreen.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/ui/preview-no-fullscreen.svg' (253)
+2019-12-09 14:55:02: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/ui/preview-prev.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/ui/preview-prev.svg' (214)
+2019-12-09 14:55:04: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/ui/preview-raw.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/ui/preview-raw.svg' (217)
+2019-12-09 14:55:06: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/ui/search.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/ui/search.svg' (443)
+2019-12-09 14:55:07: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/ui/selected.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/ui/selected.svg' (217)
+2019-12-09 14:55:09: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/ui/sidebar.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/ui/sidebar.svg' (222)
+2019-12-09 14:55:11: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/ui/sort.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/ui/sort.svg' (213)
+2019-12-09 14:55:13: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/ui/spinner.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/ui/spinner.svg' (423)
+2019-12-09 14:55:15: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/ui/tree-indicator.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/ui/tree-indicator.svg' (213)
+2019-12-09 14:55:17: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/ui/tree-toggle.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/ui/tree-toggle.svg' (309)
+2019-12-09 14:55:18: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/ui/view-details.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/ui/view-details.svg' (224)
+2019-12-09 14:55:20: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/ui/view-grid.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/ui/view-grid.svg' (274)
+2019-12-09 14:55:22: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/images/ui/view-icons.svg' -> 'backblaze://api.backblazeb2.com/CloudITS/public/images/ui/view-icons.svg' (239)
+2019-12-09 14:55:23: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/index.php' -> 'backblaze://api.backblazeb2.com/CloudITS/public/index.php' (582)
+2019-12-09 14:55:26: Copy New 'C:/Cloud/Dropbox/Public/h5ai/public/js/scripts.js' -> 'backblaze://api.backblazeb2.com/CloudITS/public/js/scripts.js' (104.980)
+2019-12-09 14:55:28: Copy New 'C:/Cloud/Dropbox/Public/h5ai/README.md' -> 'backblaze://api.backblazeb2.com/CloudITS/README.md' (2.755)
+2019-12-09 14:55:38: == Sync Complete. Time: 00:06:48, Speed: 3,54 KB/s, OK: 141, Errors: 0
+2019-12-09 14:55:56: 

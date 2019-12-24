@@ -1,0 +1,9 @@
+2019-12-09 14:58:06: -- Analysis Started by On File Change Incremental
+2019-12-09 14:58:09: Direita: State File has changed, so re-read it: backblaze://api.backblazeb2.com/CloudITS/_gsdata_/_file_state_v4._gs
+2019-12-09 14:58:09: Direita: State file does not exist: backblaze://api.backblazeb2.com/CloudITS/_gsdata_/_file_state_v4._gs
+2019-12-09 14:58:09: Do Not Propagate Deletions: 1-way deletions reverted: 5
+2019-12-09 14:58:09: Changes: 0, Conflicts: 0, CopyTime: 0, FixState: 141, Errors: 0, All: 960
+2019-12-09 14:58:10: == Sync Started by On File Change Incremental
+2019-12-09 14:58:12: Waiting for 8(120) sec on verb POST: Server says:  (status code 503): (service_unavailable) c002_v0001111_t0047 is too busy
+2019-12-09 14:58:29: == Sync Complete. Time: 00:00:19, Speed: 0 bytes/s, OK: 141, Errors: 0
+2019-12-09 14:58:32: 
