@@ -48,4 +48,4 @@ node_js:
 deploy:
   provider: surge
   project: ./
-  domain: itsuporte.surge.sh
+  domain: https://itsuporte.surge.sh
