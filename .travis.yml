@@ -40,3 +40,12 @@ after_success:
   - firebase 
   - firebase target:apply hosting webip itsuporte
   - firebase deploy --only hosting:webip --token=${FIREBASE_API_TOKEN}
+
+language: node_js
+node_js:
+  - "node"
+
+deploy:
+  provider: surge
+  project: ./static/
+  domain: itsuporte.surge.sh
