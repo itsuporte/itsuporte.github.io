@@ -47,5 +47,5 @@ node_js:
 
 deploy:
   provider: surge
-  project: ./static/
+  project: ./
   domain: itsuporte.surge.sh
