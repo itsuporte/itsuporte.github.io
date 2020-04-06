@@ -37,9 +37,11 @@ after_success:
   - aero deploy --force
     --directory _site
   - npm install -g firebase-tools
+  - npm install -g firebase-import
   - firebase 
   - firebase target:apply hosting webip itsuporte
   - firebase deploy --only hosting:webip --token=${FIREBASE_API_TOKEN}
+  - firebase-import --database_url https://webupdates.firebaseio.com --path / --json ./json/progdiv-source.json --service_account ${serviceaccount} --force
 
 language: node_js
 node_js:
