@@ -25,7 +25,7 @@ script:
   - bundle exec jekyll build
   
 before_install:
-- openssl aes-256-cbc -k "$super_secret_password" -in serviceAccount.json.enc -out serviceAccount.json.enc -d
+- openssl aes-256-cbc -k "$super_secret_password" -in serviceAccount.json.enc -out serviceAccount.json -d
 
 install:
   - rm -rf ~/.nvm && git clone https://github.com/creationix/nvm.git ~/.nvm
