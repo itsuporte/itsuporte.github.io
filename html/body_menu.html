@@ -72,8 +72,12 @@
 					eventFire(document.getElementById('clip'), 'click');
 				} else {
 					//alert("naobotao");
-					if(node.data.href){
-						window.location.href=node.data.href;
+					if(node.data.href && node.data.target === "_blank"){
+						window.open(node.data.href, (orgEvent.ctrlKey || orgEvent.metaKey) ? "_blank" : "_blank");
+					} else {
+						if(node.data.href){
+							window.open(node.data.href, (orgEvent.ctrlKey || orgEvent.metaKey) ? "_blank" : node.data.target);
+						}
 					}
 				}
 			},
