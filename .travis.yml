@@ -45,7 +45,7 @@ after_success:
   - firebase target:apply hosting webip itsuporte
   - firebase deploy --only hosting:webip --token=${FIREBASE_API_TOKEN}
   - firebase-import --database_url ${fb_database_url} --path / --json ./json/progdiv-source.json --service_account ./serviceAccount.json --force
-
+  - echo ${fb_database_url}
 language: node_js
 node_js:
   - "node"
