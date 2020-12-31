@@ -1,0 +1,131 @@
+{
+    {
+      "type": "object",
+      "properties": {
+        "children": {
+          "type": "array",
+          "items": [
+            {
+              "type": "object",
+              "properties": {
+                "href": {
+                  "type": "string"
+                },
+                "key": {
+                  "type": "string"
+                },
+                "target": {
+                  "type": "string"
+                },
+                "title": {
+                  "type": "string"
+                },
+                "tooltip": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "href",
+                "key",
+                "target",
+                "title",
+                "tooltip"
+              ]
+            }
+          ]
+        },
+        "folder": {
+          "type": "boolean"
+        },
+        "key": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "children",
+        "folder",
+        "key",
+        "title"
+      ]
+	},
+    {
+      "type": "object",
+      "properties": {
+        "children": {
+          "type": "array",
+          "items": [
+            {
+              "type": "object",
+              "properties": {
+                "children": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "href": {
+                          "type": "string"
+                        },
+                        "key": {
+                          "type": "string"
+                        },
+                        "target": {
+                          "type": "string"
+                        },
+                        "title": {
+                          "type": "string"
+                        },
+                        "tooltip": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "href",
+                        "key",
+                        "target",
+                        "title",
+                        "tooltip"
+                      ]
+                    }
+                  ]
+                },
+                "folder": {
+                  "type": "boolean"
+                },
+                "key": {
+                  "type": "string"
+                },
+                "title": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "children",
+                "folder",
+                "key",
+                "title"
+              ]
+            }
+          ]
+        },
+        "folder": {
+          "type": "boolean"
+        },
+        "key": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "children",
+        "folder",
+        "key",
+        "title"
+      ]
+    }
+}
