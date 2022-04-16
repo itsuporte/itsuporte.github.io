@@ -18,6 +18,4 @@ jobs:
           channelId: live
           projectId: webupdates
           args: target:apply hosting webupdates webupdates
-      - name: Deploy to Firebase
-        with:
           args: deploy --only hosting
