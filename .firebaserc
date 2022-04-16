@@ -1,9 +1,9 @@
 {
   "targets": {
-    "webupdates": {
+    "itsuporte": {
       "hosting": {
-        "webip": [
-          "webupdates"
+        "webupdates": [
+          "app"
         ]
       }
     }
