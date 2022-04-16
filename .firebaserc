@@ -1,14 +1,5 @@
 {
-  "targets": {
-    "itsuporte": {
-      "hosting": {
-        "webupdates": [
-          "app"
-        ]
-      }
-    }
-  },
   "projects": {
-    "default": "itsuporte"
+    "default": "webupdates"
   }
 }
