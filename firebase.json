@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "target": "webupdates",
+    "target": "app",
     "public": "/",
     "ignore": [
       "firebase.json",
