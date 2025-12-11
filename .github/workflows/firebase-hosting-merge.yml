@@ -1,24 +1,15 @@
-name: Deploy to Live Channel
-
+name: Deploy the main branch
 on:
   push:
     branches:
-      - master
-    # Optionally configure to run only for specific files. For example:
-    # paths:
-    # - "website/**"
-
+      - main
 jobs:
-  deploy_live_website:
+  main:
+    name: Deploy to Firebase
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      # Add any build steps here. For example:
-      # - run: npm ci && npm run build
-      - uses: FirebaseExtended/action-hosting-deploy@v0
-        with:
-          firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT_WEBUPDATES }}"
-          projectId: webupdates
-          channelId: live
-          # Optionally add Force flag
-          # force: true
+    - uses: actions/checkout@v2
+    - uses: lowply/deploy-firebase@v0.0.5
+      env:
+        FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+        FIREBASE_PROJECT: webupdates
