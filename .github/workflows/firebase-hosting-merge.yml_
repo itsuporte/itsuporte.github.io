@@ -1,0 +1,29 @@
+name: Deploy Staging
+
+on:
+  push:
+    branches:
+      - develop
+
+jobs:
+  deploy:
+    steps:
+      - uses: actions/checkout@v4
+
+      # Install firebase-tools
+      - run: yarn global add firebase-tools@12.5.2
+
+      # Install deps
+      - run: yarn --frozen-lockfile
+
+      # Authenticate with Google Cloud for firebase
+      - name: 'Authenticate with Google Cloud'
+        uses: 'google-github-actions/auth@v1'
+        with:
+          credentials_json: '${{ secrets.GOOGLE_APPLICATION_CREDENTIALS_STAGING }}'
+
+      # Set the active project
+      - run: firebase use staging
+
+      # Deploy staging
+      - run: yarn deploy:staging
