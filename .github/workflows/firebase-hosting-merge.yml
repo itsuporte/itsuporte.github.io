@@ -1,4 +1,4 @@
-name: Deploy Staging
+name: Deploy webupdates
 
 on:
   push:
@@ -11,25 +11,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Ensure correct Node.js version
       - uses: actions/setup-node@v3
         with:
           node-version: '20'
 
-      # Install firebase-tools globally
       - run: npm install -g firebase-tools@12.5.2
-
-      # Install project dependencies
       - run: yarn --frozen-lockfile
 
-      # Authenticate with Google Cloud for firebase
       - name: 'Authenticate with Google Cloud'
         uses: 'google-github-actions/auth@v1'
         with:
           credentials_json: '${{ secrets.GOOGLE_APPLICATION_CREDENTIALS_STAGING }}'
 
-      # Set the active project
-      - run: firebase use webupdates
-
-      # Deploy staging directly (avoid npx)
-      - run: firebase deploy --only hosting --debug
+      # Deploy directly with project ID
+      - run: export NODE_OPTIONS="--max_old_space_size=4096"
+      - run: firebase deploy --only hosting --project webupdates --debug
