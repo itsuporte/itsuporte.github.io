@@ -23,7 +23,7 @@ jobs:
           credentials_json: '${{ secrets.GOOGLE_APPLICATION_CREDENTIALS_STAGING }}'
 
       # Set the active project
-      - run: firebase use staging
+      - run: firebase use webupdates
 
       # Deploy staging
-      - run: yarn deploy:staging
+      - run: yarn deploy:webupdates
