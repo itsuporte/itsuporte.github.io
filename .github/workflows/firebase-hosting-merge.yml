@@ -7,13 +7,19 @@ on:
 
 jobs:
   deploy:
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      # Install firebase-tools
-      - run: yarn global add firebase-tools@12.5.2
+      # Ensure correct Node.js version
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '20'
 
-      # Install deps
+      # Install firebase-tools globally
+      - run: npm install -g firebase-tools@12.5.2
+
+      # Install project dependencies
       - run: yarn --frozen-lockfile
 
       # Authenticate with Google Cloud for firebase
@@ -25,5 +31,5 @@ jobs:
       # Set the active project
       - run: firebase use webupdates
 
-      # Deploy staging
-      - run: yarn deploy:webupdates
+      # Deploy staging directly (avoid npx)
+      - run: firebase deploy --only hosting --debug
