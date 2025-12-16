@@ -21,7 +21,7 @@ jobs:
       - name: 'Authenticate with Google Cloud'
         uses: 'google-github-actions/auth@v1'
         with:
-          credentials_json: '${{ secrets.GOOGLE_APPLICATION_CREDENTIALS_STAGING }}'
+          credentials_json: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_WEBUPDATES }}'
 
       # Deploy directly with project ID
       - run: export NODE_OPTIONS="--max_old_space_size=4096"
